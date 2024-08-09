@@ -276,6 +276,7 @@ Here's a (non-exhaustive) list of companies that use `rules_scala` in production
 
 * [Ascend](https://ascend.io/)
 * [Canva](https://www.canva.com/)
+* [Cognira](https://cognira.com/)
 * [Domino Data Lab](https://www.dominodatalab.com/)
 * [Etsy](https://www.etsy.com/)
 * [Gemini](https://gemini.com/)
